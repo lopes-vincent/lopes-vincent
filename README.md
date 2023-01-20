@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/6057206/213519582-1cd3a650-0100-40a9-9476-8ee5951b35e0.svg" alt="Vincent Lopes-Vicente"/>
+  <a href="https://github.com/lopes-vincent">
+    <img src="https://user-images.githubusercontent.com/6057206/213519582-1cd3a650-0100-40a9-9476-8ee5951b35e0.svg" alt="Vincent Lopes-Vicente"/>
+  </a>
 </p>
 
 <hr>
@@ -20,4 +22,4 @@
 
 <hr>
 
-![](https://github-profile-trophy.vercel.app/?username=lopes-vincent&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=-1)
+![https://github.com/lopes-vincent](https://github-profile-trophy.vercel.app/?username=lopes-vincent&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=-1)
