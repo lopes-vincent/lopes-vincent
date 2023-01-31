@@ -23,3 +23,11 @@
 <hr>
 
 ![https://github.com/lopes-vincent](https://github-profile-trophy.vercel.app/?username=lopes-vincent&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=-1)
+
+<hr>
+
+<p align="center">
+  <a href="https://github.com/lopes-vincent">
+    <img src="https://komarev.com/ghpvc/?username=lopes-vincent&style=for-the-badge&color=ff69b4" alt="Vincent Lopes-Vicente"/>
+  </a>
+</p>
